@@ -1,0 +1,5 @@
+export const ADD_CITY = 'ADD_CITY';
+export const ADD_CITIES = 'ADD_CITIES';
+export const CITIES_FAILED = 'CITIES_FAILED';
+export const ADD_DAYSWEATHER = 'ADD_DAYSWEATHER';
+export const DAYSWEATHER_FAILED = 'DAYSWEATHER_FAILED';
